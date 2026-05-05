@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 let's merge
 =======
-We need to merge,no changes
->>>>>>> main
+<<<<<<< HEAD
+We need to merge
+=======
+We need to merge, all branches
+
