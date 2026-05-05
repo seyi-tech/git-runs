@@ -1,2 +1,2 @@
 source control on test file, all for student Developers. Let's get started. You got this!
-
+allow to use fetch to local repo
