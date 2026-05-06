@@ -1,6 +1,4 @@
 source control on test file, all for student Developers. Let's get started. You got this!
 allow to use fetch to local repo
 let use pull to make direct changes both on local machine and remote repo
-all learning can be done
-
-# 8080 
+all learning can be done 
