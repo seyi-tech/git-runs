@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Add UI utility in the interface
+=======
+Add dark mode functionality
+>>>>>>> 134e707 (add dark mode)
